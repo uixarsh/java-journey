@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Inputs {
     public static void main(String[] args) {
-        
+
         // input.next()     // Prints the String before spaces
         // input.nextInt()  // Prints the Integer
         // input.nextLine() // Prints the whole string.
@@ -18,7 +18,8 @@ public class Inputs {
         /* String name = input.nextLine();
         System.out.println(name); */
 
-        /* float marks = input.nextFloat();
-        System.out.println(marks); */
+        float marks = input.nextFloat();
+        System.out.println(marks);
+
     }
 }
