@@ -1,4 +1,4 @@
-package org.learn.oops;
+package org.learn.oops.introduction;
 
 public class Lec {
     public static void main(String[] args) {

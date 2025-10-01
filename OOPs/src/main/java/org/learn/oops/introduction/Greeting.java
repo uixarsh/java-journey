@@ -1,5 +1,5 @@
-package org.learn.oops.packages;
-import static org.learn.oops.packages.Message.message;
+package org.learn.oops.introduction;
+import static org.learn.oops.introduction.Message.message;
 
 public class Greeting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.learn.oops.staticExample;
+package org.learn.oops.staticKwd;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.learn.oops.packages;
+package org.learn.oops.introduction;
 
 public class Message {
     public static void main(String[] args) {

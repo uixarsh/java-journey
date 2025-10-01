@@ -1,4 +1,4 @@
-package org.learn.oops.staticExample;
+package org.learn.oops.staticKwd;
 
 /* 
  * static public class InnerClass {}  

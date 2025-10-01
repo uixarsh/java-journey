@@ -1,4 +1,4 @@
-package org.learn.oops.staticExample;
+package org.learn.oops.staticKwd;
 
 public class StaticBlock {
     // this is a demo to show initialization of static variables....
