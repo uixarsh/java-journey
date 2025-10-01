@@ -6,4 +6,5 @@ public class Main {
     Singleton obj3 = Singleton.getInstance();
 
     // only one object is created in the memory.....
+
 }
