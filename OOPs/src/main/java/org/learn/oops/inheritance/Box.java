@@ -33,5 +33,9 @@ public class Box {
     public void information () {
         System.out.println("Running the box : " + this.length*this.width*this.height);
     }
+
+    public static void greeting () {
+        System.out.println("Hey, there I'm inside Box...");
+    }
 }
 

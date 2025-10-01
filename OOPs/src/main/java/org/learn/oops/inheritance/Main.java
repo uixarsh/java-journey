@@ -36,7 +36,14 @@ public class Main {
         // this also means, that the ones you are trying to access should be initialized.
         // but here when the object is itself of type parent class how will you call the constructor of child class ?
 
-        BoxTight b9 = new BoxTight();
-        b9.information();
+        // BoxTight b9 = new BoxTight();
+        // b9.information();
+
+        Box b10 = new Box();
+        // b10.greeting(); // must be accessed by Class names
+
+        Box.greeting();
+
+        BoxWeight.greeting();
     }
 }
