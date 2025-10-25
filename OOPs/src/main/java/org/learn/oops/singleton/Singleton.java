@@ -2,6 +2,7 @@ package org.learn.oops.singleton;
 
 public class Singleton {
 
+    // Constructor made private to prevent instantiation from other classes
     private Singleton() {
 
     }
